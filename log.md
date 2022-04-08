@@ -20,3 +20,10 @@
 **Thoughts:** Previous knowledge helped.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements)
+
+### Day 4: April 8, 2022
+**Today's Progress**: Continued the Basic CSS free course on freeCodeCamp.
+
+**Thoughts:** Guilty and tired.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes)
