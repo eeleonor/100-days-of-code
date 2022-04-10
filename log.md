@@ -27,3 +27,10 @@
 **Thoughts:** Guilty and tired.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes)
+
+### Day 5: April 10, 2022
+**Today's Progress**: Completed the Basic CSS free course on freeCodeCamp.
+
+**Thoughts:** Mostly tired.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
