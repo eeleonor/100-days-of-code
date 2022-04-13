@@ -36,9 +36,16 @@
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
 
 
-### Day 6: April 12, 2022
+### Day 6: April 11, 2022
 **Today's Progress**: Started the Applied visual design free course on freeCodeCamp.
 
 **Thoughts:** I tried, I was blocked by a box shadow.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
+
+### Day 7: April 13, 2022
+**Today's Progress**: Continued with the Applied visual design free course on freeCodeCamp.
+
+**Thoughts:** Hans Zimmer was helpful, some previous knowledges helped.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image)
