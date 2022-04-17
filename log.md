@@ -56,3 +56,11 @@
 **Thoughts:** Feelin' myself looking super smart doing code on the train.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animatione)
+
+### Day 9: April 17, 2022
+**Today's Progress**: Completed the Applied visual design free course on freeCodeCamp and started the Applied Accessibility free course on freeCodeCamp.
+
+**Thoughts:** Everything clear, Good Easter.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+
