@@ -58,9 +58,18 @@
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animatione)
 
 ### Day 9: April 17, 2022
-**Today's Progress**: Completed the Applied visual design free course on freeCodeCamp and started the Applied Accessibility free course on freeCodeCamp.
+**Today's Progress**: Continued with the Applied Accessibility free course on freeCodeCamp.
 
 **Thoughts:** Everything clear, Good Easter.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+
+### Day 10: April 18, 2022
+**Today's Progress**: Completed the Applied Accessibility free course on freeCodeCamp.
+
+**Thoughts:** Somethings are more clear.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+
+
 
