@@ -74,9 +74,15 @@
 ### Day 11: April 20, 2022
 **Today's Progress**: Started and completed the Responsive Web Design Principles and started the CSS flexbox free courses on freeCodeCamp.
 
-**Thoughts:** Everuthing's clear.
+**Thoughts:** Everything's clear.
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
 
+### Day 12: April 22, 2022
+**Today's Progress**: Completed the CSS flexbox free courses on freeCodeCamp.
+
+**Thoughts:** Everything's clear.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
 
 
