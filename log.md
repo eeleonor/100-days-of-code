@@ -86,3 +86,12 @@
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
 
 
+### Day 13: April 2, 2022
+**Today's Progress**: Completed the CSS grid free courses on freeCodeCamp.
+
+**Thoughts:** I hope I've learned everything.
+
+**Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
+
+
+
