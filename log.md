@@ -93,5 +93,10 @@
 
 **Link to work:** [https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
 
+### Day 14: May 4, 2022
+**Today's Progress**: Started a Pen.
 
+**Thoughts:** Barely maked a title on a page :(
+
+**Link to work:** [https://codepen.io/eeleonor/pen/NWyqBPM](https://codepen.io/eeleonor/pen/NWyqBPM)
 
