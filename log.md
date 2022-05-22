@@ -107,3 +107,10 @@
 
 **Link to work:** [https://codepen.io/eeleonor/pen/NWyqBPM](https://codepen.io/eeleonor/pen/NWyqBPM)
 
+### Day 16: May 22, 2022
+**Today's Progress**: Completed the first part of the Responsive Web Design Project.
+
+**Thoughts:** Harder than I thought (that's what she said).
+
+**Link to work:** [[https://codepen.io/eeleonor/pen/NWyqBPM](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)]([https://codepen.io/eeleonor/pen/NWyqBPM](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form))
+
