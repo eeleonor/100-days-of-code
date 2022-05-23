@@ -107,7 +107,7 @@
 
 **Link to work:** [https://codepen.io/eeleonor/pen/NWyqBPM](https://codepen.io/eeleonor/pen/NWyqBPM)
 
-### Day 16: May 22, 2022
+### Day 16: May 23, 2022
 **Today's Progress**: Completed the first part of the Responsive Web Design Project.
 
 **Thoughts:** Harder than I thought (that's what she said).
