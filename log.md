@@ -100,17 +100,24 @@
 
 **Link to work:** [https://codepen.io/eeleonor/pen/NWyqBPM](https://codepen.io/eeleonor/pen/NWyqBPM)
 
-### Day 15: May 22, 2022
+### Day 15: May 21, 2022
 **Today's Progress**: Started a Pen.
 
 **Thoughts:** Barely maked a title on a page :(
 
 **Link to work:** [https://codepen.io/eeleonor/pen/NWyqBPM](https://codepen.io/eeleonor/pen/NWyqBPM)
 
-### Day 16: May 23, 2022
+### Day 16: May 22, 2022
 **Today's Progress**: Completed the first part of the Responsive Web Design Project.
 
 **Thoughts:** Harder than I thought (that's what she said).
 
 **Link to work:** [[https://codepen.io/eeleonor/pen/NWyqBPM](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)]([https://codepen.io/eeleonor/pen/NWyqBPM](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form))
 
+
+### Day 17: May 23, 2022
+**Today's Progress**: Completed the second part of the Responsive Web Design Project.
+
+**Thoughts:** I copied a lot :/.
+
+**Link to work:** [[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page))
