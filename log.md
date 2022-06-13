@@ -121,3 +121,11 @@
 **Thoughts:** I copied a lot :/.
 
 **Link to work:** [[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page))
+
+### Day 18: June 13, 2022
+**Today's Progress**: Completed the thirs part of the Responsive Web Design Project.
+
+**Thoughts:** I copied a lot :/.
+
+**Link to work:** [[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page))
+
