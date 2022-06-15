@@ -122,14 +122,14 @@
 
 **Link to work:** [[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page))
 
-### Day 18: June 14, 2022
+### Day 18: June 13, 2022
 **Today's Progress**: Completed the third part of the Responsive Web Design Project.
 
 **Thoughts:** I copied a lot :/.
 
 **Link to work:** [[https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page))
 
-### Day 19: June 15, 2022
+### Day 19: June 14, 2022
 **Today's Progress**: Started the fourth part of the Responsive Web Design Project.
 
 **Thoughts:** I copied a lot :/.
